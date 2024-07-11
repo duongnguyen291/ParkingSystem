@@ -28,8 +28,8 @@ This project is a vehicle detection system designed for monitoring parking space
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone [<repository_url>](https://github.com/duongnguyen291/ParkingSystem/)
-   cd  [<repository_url>](https://github.com/duongnguyen291/ParkingSystem/)
+   git clone https://github.com/duongnguyen291/ParkingSystem
+   cd  https://github.com/duongnguyen291/ParkingSystem
    ```
 
 2. **Install the required Python packages**:
